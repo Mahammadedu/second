@@ -1,1 +1,2 @@
 # git-edu
+hello Git 
